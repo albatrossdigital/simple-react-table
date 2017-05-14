@@ -6,7 +6,7 @@ class MainTable extends Component {
     return (
       <div className="main-table-page">
         <h1>Main Table</h1>
-        <Table url='http://workhorse.albatrossdigital.com/labspace/charities/' />
+        <Table url='//charities.kbox.site/reports-api/report/test-search?accountnumber=A0003616&year=2017' />
       </div>
     );
   }
